@@ -308,8 +308,8 @@ nav {
     background: #ffffff;
     padding: 20px;
     border-radius: 20px;
-    width: 400px;
-    height: 400px;
+    width: 500px;
+    height: 500px;
     box-shadow: 0 8px 8px whitesmoke;
     animation: fading 400ms ease;
 }
@@ -335,7 +335,7 @@ fieldset {
     display: flex;
     flex-direction: column;
     border-radius: 20px;
-    height: 2500px;
+    height: 300px;
 }
 
 .name {
