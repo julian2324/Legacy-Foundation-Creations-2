@@ -58,7 +58,7 @@ h1 {
     padding-right: 20px;
     border-radius: 20px;
     text-align: center;
-    color: goldenrod;
+    color: rgb(247, 229, 131);
     animation: drop 400ms backwards;
 }
 
@@ -71,7 +71,7 @@ h2 {
     padding-right: 20px;
     border-radius: 20px;
     text-align: center;
-    color: goldenrod;
+    color: rgb(247, 229, 131);
     animation: drop 900ms 500ms backwards;
 }
 
